@@ -1,13 +1,9 @@
 # depslib dependency file v1.0
-1524178435 source:c:\users\jesusaureliano\documents\proyectos codeblock\gtkmm projects\containerpaned\examplewindow.cpp
+1525107162 source:c:\users\jesusaureliano\documents\proyectos codeblock\gtkmm projects\etiqueta\examplewindow.cpp
 	"examplewindow.h"
+	<iostream>
 
-1524178248 c:\users\jesusaureliano\documents\proyectos codeblock\gtkmm projects\containerpaned\examplewindow.h
-	"messageslist.h"
-	"messagetext.h"
-	<gtkmm.h>
-
-1524178248 c:\users\jesusaureliano\documents\proyectos codeblock\gtkmm projects\containerpaned\messageslist.h
+1525107162 c:\users\jesusaureliano\documents\proyectos codeblock\gtkmm projects\etiqueta\examplewindow.h
 	<gtkmm.h>
 
 1474651752 c:\msys64\mingw32\include\gtkmm-3.0\gtkmm.h
@@ -6918,17 +6914,7 @@
 	<sigc++/sigc++.h>
 	<gtkmm/scalebutton.h>
 
-1524178326 c:\users\jesusaureliano\documents\proyectos codeblock\gtkmm projects\containerpaned\messagetext.h
-	<gtkmm.h>
-
-1524178326 source:c:\users\jesusaureliano\documents\proyectos codeblock\gtkmm projects\containerpaned\main.cpp
+1525107162 source:c:\users\jesusaureliano\documents\proyectos codeblock\gtkmm projects\etiqueta\main.cpp
 	"examplewindow.h"
 	<gtkmm/application.h>
-
-1524178398 source:c:\users\jesusaureliano\documents\proyectos codeblock\gtkmm projects\containerpaned\messageslist.cpp
-	"messageslist.h"
-	<sstream>
-
-1524235258 source:c:\users\jesusaureliano\documents\proyectos codeblock\gtkmm projects\containerpaned\messagetext.cpp
-	"messagetext.h"
 
